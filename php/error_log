@@ -1,0 +1,173 @@
+[08-Mar-2021 17:50:14 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/reset.php on line 38
+[08-Mar-2021 17:50:34 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/reset.php on line 38
+[08-Mar-2021 17:57:26 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[08-Mar-2021 18:03:07 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[08-Mar-2021 18:12:05 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[08-Mar-2021 18:16:45 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/reset.php on line 38
+[08-Mar-2021 20:37:24 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/thejahi2/public_html/insurance/php/login.php on line 21
+[08-Mar-2021 20:40:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/thejahi2/public_html/insurance/php/login.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/thejahi2/public_html/insurance/php/login.php on line 19
+[08-Mar-2021 20:40:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/thejahi2/public_html/insurance/php/login.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/thejahi2/public_html/insurance/php/login.php on line 19
+[08-Mar-2021 20:40:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/thejahi2/public_html/insurance/php/login.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/thejahi2/public_html/insurance/php/login.php on line 19
+[08-Mar-2021 20:41:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/thejahi2/public_html/insurance/php/login.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/thejahi2/public_html/insurance/php/login.php on line 19
+[08-Mar-2021 20:42:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in /home/thejahi2/public_html/insurance/php/login.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/thejahi2/public_html/insurance/php/login.php on line 19
+[09-Mar-2021 07:16:36 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/reset.php on line 38
+[09-Mar-2021 09:29:16 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 9
+[09-Mar-2021 09:29:31 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 9
+[09-Mar-2021 09:29:54 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 9
+[09-Mar-2021 09:30:03 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 9
+[09-Mar-2021 09:34:15 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 9
+[09-Mar-2021 09:43:26 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 9
+[09-Mar-2021 09:48:11 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 9
+[09-Mar-2021 09:54:29 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 9
+[09-Mar-2021 09:54:40 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 9
+[09-Mar-2021 09:55:38 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 10
+[09-Mar-2021 09:56:13 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 10
+[09-Mar-2021 09:57:15 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 10
+[09-Mar-2021 10:19:55 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[09-Mar-2021 10:22:50 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[09-Mar-2021 10:27:47 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[09-Mar-2021 10:34:04 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[09-Mar-2021 11:07:22 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[09-Mar-2021 11:14:32 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[09-Mar-2021 11:15:06 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[09-Mar-2021 11:19:01 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[09-Mar-2021 11:20:32 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/reset.php on line 38
+[09-Mar-2021 11:25:06 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[09-Mar-2021 11:25:51 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[09-Mar-2021 11:26:06 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[09-Mar-2021 12:42:22 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[09-Mar-2021 15:35:03 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[09-Mar-2021 15:47:22 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[09-Mar-2021 15:52:01 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[09-Mar-2021 15:55:38 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[09-Mar-2021 16:02:04 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[09-Mar-2021 16:06:21 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[10-Mar-2021 13:45:43 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[15-Mar-2021 03:09:14 UTC] PHP Warning:  require_once(php/databaseConnect.php): failed to open stream: No such file or directory in /home/thejahi2/public_html/insurance/php/profilePictureChange.php on line 3
+[15-Mar-2021 03:09:14 UTC] PHP Fatal error:  require_once(): Failed opening required 'php/databaseConnect.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thejahi2/public_html/insurance/php/profilePictureChange.php on line 3
+[15-Mar-2021 03:09:34 UTC] PHP Warning:  require_once(php/databaseConnect.php): failed to open stream: No such file or directory in /home/thejahi2/public_html/insurance/php/profilePictureChange.php on line 3
+[15-Mar-2021 03:09:34 UTC] PHP Fatal error:  require_once(): Failed opening required 'php/databaseConnect.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thejahi2/public_html/insurance/php/profilePictureChange.php on line 3
+[16-Mar-2021 00:49:39 UTC] PHP Warning:  require_once(php/databaseConnect.php): failed to open stream: No such file or directory in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 00:49:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'php/databaseConnect.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 00:49:45 UTC] PHP Warning:  require_once(php/databaseConnect.php): failed to open stream: No such file or directory in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 00:49:45 UTC] PHP Fatal error:  require_once(): Failed opening required 'php/databaseConnect.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 01:09:01 UTC] PHP Warning:  require_once(php/databaseConnect.php): failed to open stream: No such file or directory in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 01:09:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'php/databaseConnect.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 01:09:40 UTC] PHP Warning:  require_once(php/databaseConnect.php): failed to open stream: No such file or directory in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 01:09:40 UTC] PHP Fatal error:  require_once(): Failed opening required 'php/databaseConnect.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 01:10:33 UTC] PHP Warning:  require_once(php/databaseConnect.php): failed to open stream: No such file or directory in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 01:10:33 UTC] PHP Fatal error:  require_once(): Failed opening required 'php/databaseConnect.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 01:14:00 UTC] PHP Warning:  require_once(php/databaseConnect.php): failed to open stream: No such file or directory in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 01:14:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'php/databaseConnect.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 01:15:24 UTC] PHP Warning:  require_once(php/databaseConnect.php): failed to open stream: No such file or directory in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 01:15:24 UTC] PHP Fatal error:  require_once(): Failed opening required 'php/databaseConnect.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 01:17:53 UTC] PHP Warning:  require_once(php/databaseConnect.php): failed to open stream: No such file or directory in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 01:17:53 UTC] PHP Fatal error:  require_once(): Failed opening required 'php/databaseConnect.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 01:19:37 UTC] PHP Warning:  require_once(php/databaseConnect.php): failed to open stream: No such file or directory in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 01:19:37 UTC] PHP Fatal error:  require_once(): Failed opening required 'php/databaseConnect.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 02:18:00 UTC] PHP Warning:  require_once(php/databaseConnect.php): failed to open stream: No such file or directory in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 02:18:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'php/databaseConnect.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 02:19:25 UTC] PHP Warning:  require_once(php/databaseConnect.php): failed to open stream: No such file or directory in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 02:19:25 UTC] PHP Fatal error:  require_once(): Failed opening required 'php/databaseConnect.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 12:38:14 UTC] PHP Warning:  require_once(php/databaseConnect.php): failed to open stream: No such file or directory in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 12:38:14 UTC] PHP Fatal error:  require_once(): Failed opening required 'php/databaseConnect.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 12:51:57 UTC] PHP Warning:  require_once(php/databaseConnect.php): failed to open stream: No such file or directory in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 12:51:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'php/databaseConnect.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 13:28:50 UTC] PHP Warning:  require_once(php/databaseConnect.php): failed to open stream: No such file or directory in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 13:28:50 UTC] PHP Fatal error:  require_once(): Failed opening required 'php/databaseConnect.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 13:29:34 UTC] PHP Warning:  require_once(php/databaseConnect.php): failed to open stream: No such file or directory in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 13:29:34 UTC] PHP Fatal error:  require_once(): Failed opening required 'php/databaseConnect.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 13:31:52 UTC] PHP Warning:  require_once(php/databaseConnect.php): failed to open stream: No such file or directory in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 13:31:52 UTC] PHP Fatal error:  require_once(): Failed opening required 'php/databaseConnect.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 13:33:09 UTC] PHP Warning:  require_once(php/databaseConnect.php): failed to open stream: No such file or directory in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 13:33:09 UTC] PHP Fatal error:  require_once(): Failed opening required 'php/databaseConnect.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 13:33:34 UTC] PHP Warning:  require_once(php/databaseConnect.php): failed to open stream: No such file or directory in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 13:33:34 UTC] PHP Fatal error:  require_once(): Failed opening required 'php/databaseConnect.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 13:33:39 UTC] PHP Warning:  require_once(php/databaseConnect.php): failed to open stream: No such file or directory in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 13:33:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'php/databaseConnect.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/thejahi2/public_html/insurance/php/uploadclaim.php on line 5
+[16-Mar-2021 15:39:40 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[16-Mar-2021 15:40:12 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/reset.php on line 38
+[16-Mar-2021 16:39:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/thejahi2/public_html/insurance/php/pdf_dwonload.php on line 109
+[16-Mar-2021 16:39:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/thejahi2/public_html/insurance/php/pdf_dwonload.php on line 109
+[16-Mar-2021 16:47:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/thejahi2/public_html/insurance/php/pdf_dwonload.php on line 108
+[16-Mar-2021 16:47:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/thejahi2/public_html/insurance/php/pdf_dwonload.php on line 108
+[16-Mar-2021 16:47:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/thejahi2/public_html/insurance/php/pdf_dwonload.php on line 108
+[17-Mar-2021 15:54:28 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[17-Mar-2021 15:56:57 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[17-Mar-2021 17:31:38 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[17-Mar-2021 17:34:30 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[18-Mar-2021 13:16:34 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[18-Mar-2021 13:42:25 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[18-Mar-2021 16:10:07 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[18-Mar-2021 17:30:51 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[18-Mar-2021 18:39:39 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[18-Mar-2021 18:42:24 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[18-Mar-2021 19:01:50 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[18-Mar-2021 19:37:54 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[18-Mar-2021 19:39:34 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[18-Mar-2021 19:41:14 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[18-Mar-2021 19:44:59 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[18-Mar-2021 20:19:19 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[20-Mar-2021 05:48:45 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[20-Mar-2021 06:19:15 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[20-Mar-2021 06:21:33 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[20-Mar-2021 06:46:23 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[20-Mar-2021 06:48:07 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[20-Mar-2021 07:23:12 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[21-Mar-2021 05:38:45 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[21-Mar-2021 05:57:31 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[21-Mar-2021 06:26:40 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[21-Mar-2021 06:29:52 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[21-Mar-2021 06:34:57 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[21-Mar-2021 06:36:29 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[21-Mar-2021 06:38:06 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[21-Mar-2021 06:39:53 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[21-Mar-2021 06:40:15 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[21-Mar-2021 07:33:22 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[21-Mar-2021 07:36:20 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[21-Mar-2021 15:48:13 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[21-Mar-2021 16:11:48 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[21-Mar-2021 16:14:56 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[21-Mar-2021 16:55:41 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[21-Mar-2021 17:17:39 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[21-Mar-2021 17:19:03 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[21-Mar-2021 17:29:10 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[21-Mar-2021 17:29:28 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[21-Mar-2021 17:31:13 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/reset.php on line 38
+[21-Mar-2021 17:44:51 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[22-Mar-2021 05:34:44 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[22-Mar-2021 16:39:03 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[22-Mar-2021 16:55:37 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[22-Mar-2021 17:58:51 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[22-Mar-2021 18:23:17 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[22-Mar-2021 18:24:28 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[22-Mar-2021 18:28:52 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[23-Mar-2021 03:06:52 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[28-Mar-2021 04:28:21 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[28-Mar-2021 04:32:11 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[01-Apr-2021 14:54:20 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[01-Apr-2021 14:55:28 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[01-Apr-2021 14:55:44 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/reset.php on line 38
+[01-Apr-2021 14:57:04 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[01-Apr-2021 14:58:03 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[05-Apr-2021 13:52:39 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[05-Apr-2021 13:53:52 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/reset.php on line 38
+[05-Apr-2021 14:20:57 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[05-Apr-2021 14:23:04 UTC] PHP Warning:  Creating default object from empty value in /home/thejahi2/public_html/insurance/php/register.php on line 83
+[05-Apr-2021 14:28:59 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
+[05-Apr-2021 15:04:15 UTC] PHP Warning:  Cookie names must not be empty in /home/thejahi2/public_html/insurance/php/logout.php on line 11
