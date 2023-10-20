@@ -83,8 +83,8 @@ if (isset($_POST['fullName']) &&  isset($_POST['NID']) &&  isset($_POST['email']
                         $mail->SMTPSecure = 'tls';      //Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` encouraged
                         $mail->Port       = 587;                                    //TCP port to connect to, use 465 for `PHPMailer::ENCRYPTION_SMTPS` above
                         
-                        $mail->Username   = 'mastermindtour@gmail.com';                     //SMTP username
-                        $mail->Password   = 'dwaaxbjzfhmhtxuu';                               //SMTP password
+                        $mail->Username   = '';                     //SMTP username
+                        $mail->Password   = '';                               //SMTP password
                              //SMTP password
                         
                         
