@@ -1,6 +1,5 @@
 <!--login_check.php-->
 <?php 
-session_start();
 require_once("php/databaseConnect.php");
 
 if(isset($_COOKIE['usercookie'])){

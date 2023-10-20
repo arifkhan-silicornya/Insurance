@@ -1,9 +1,9 @@
 <?php
 
    $host = "localhost";
-   $dbUsername = "thejahi2_insurance";
-   $dbPassword = "Jahidhasan@123";
-   $dbName     = "thejahi2_insurance";
+   $dbUsername = "root";
+   $dbPassword = "";
+   $dbName     = "insurance";
 
 
 // ...................create connection .................

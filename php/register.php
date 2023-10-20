@@ -77,30 +77,30 @@ if (isset($_POST['fullName']) &&  isset($_POST['NID']) &&  isset($_POST['email']
 
                      try {
                         //Server settings
-                        // $mail->isSMTP();                                            //Send using SMTP
+                        $mail->isSMTP();                                            //Send using SMTP
                         $mail->Host       = 'smtp.gmail.com';                     //Set the SMTP server to send through
                         $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-                        $email->SMTPSecure = "tls";      //Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` encouraged
+                        $mail->SMTPSecure = 'tls';      //Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` encouraged
                         $mail->Port       = 587;                                    //TCP port to connect to, use 465 for `PHPMailer::ENCRYPTION_SMTPS` above
                         
-                        $mail->Username   = 'jahidcse.me@Gmail.com';                     //SMTP username
-                        $mail->Password   = 'forhad+eva';                               //SMTP password
+                        $mail->Username   = 'mastermindtour@gmail.com';                     //SMTP username
+                        $mail->Password   = 'dwaaxbjzfhmhtxuu';                               //SMTP password
                              //SMTP password
                         
                         
                         
 
                         //Recipients
-                        $mail->setFrom('jahidcse.me@Gmail.com', 'Insurance');
+                        $mail->setFrom('mastermindtour@gmail.com', 'Insurance');
                         $mail->addAddress($emailnumber, $fullName);     //Add a recipient
 
-                        $mail->addReplyTo('jahidcse.me@Gmail.com');
+                        $mail->addReplyTo('mastermindtour@gmail.com');
 
                         //Content
                         $mail->isHTML(true);                                  //Set email format to HTML
                         $mail->Subject = 'Cofirm Registration';
                         $mail->Body    = "Click link To Confirm Your Registration. 
-                        <a href='http://insurance.thejahid.xyz/php/confirm.php?email={$emailnumber}'>Confirm Now</a>";
+                        <a href='http://localhost/Insurance/php/confirm.php?email={$emailnumber}'>Confirm Now</a>";
                         // $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
                         $mail->send();
