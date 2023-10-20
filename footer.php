@@ -41,8 +41,8 @@
       </div>
       <div class="col-md-4 mx-auto">
         <h4 class="text-justify">For any query, please contact</h4>
-        <p class="text-justify">Homes 68/D,Greenroad, Tegong, Dhaka – 1207 </p>
-        <p class=" text-justify">fjahidhasan12@gmail.com</p>
+        <p class="text-justify">Dhaka, Bangladesh – 1214 </p>
+        <p class=" text-justify">arifkhanshanto123@gmail.com</p>
       </div>
       <div class="col-md-4">
         <h4>Follow Us On</h4>
@@ -55,6 +55,10 @@
       </div>
     </div><hr class="bg-light">
     <div class="copyRight text-center mx-auto py-4">
-      Copyright @Creative Jahid&Raju. All Rights Riserved.2021
+      Copyright ©<span id="year"></span> All Rights Riserved by Arifkhan.
     </div>
 </section>
+
+<script >
+  document.getElementById("year").innerHTML = new Date().getFullYear();
+</script>
