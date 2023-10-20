@@ -83,18 +83,18 @@ if (isset($_POST['fullName']) &&  isset($_POST['NID']) &&  isset($_POST['email']
                         $mail->SMTPSecure = 'tls';      //Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` encouraged
                         $mail->Port       = 587;                                    //TCP port to connect to, use 465 for `PHPMailer::ENCRYPTION_SMTPS` above
                         
-                        $mail->Username   = '';                     //SMTP username
-                        $mail->Password   = '';                               //SMTP password
+                        $mail->Username   = 'Enter your mail';                     //SMTP username
+                        $mail->Password   = 'Enter your Password';                               //SMTP password
                              //SMTP password
                         
                         
                         
 
                         //Recipients
-                        $mail->setFrom('mastermindtour@gmail.com', 'Insurance');
+                        $mail->setFrom('Enter your mail', 'Insurance');
                         $mail->addAddress($emailnumber, $fullName);     //Add a recipient
 
-                        $mail->addReplyTo('mastermindtour@gmail.com');
+                        $mail->addReplyTo('Enter your mail');
 
                         //Content
                         $mail->isHTML(true);                                  //Set email format to HTML
